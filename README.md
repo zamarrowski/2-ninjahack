@@ -11,7 +11,7 @@ El principal propósito de este repositorio es dar la información necesaria a t
 
 El ninja hack utiliza dos tecnologías:
 
-* [Cells](https://www.cellsjs.com/guides/index.html) para la parte de desarrollo de la aplicación front.
+* [Cells](https://bbva-devplatform.appspot.com/en-us/engines/cells/index.html) para la parte de desarrollo de la aplicación front.
 * 
 
 Dentro de la [Wiki] (https://github.com/BBVA/2-ninjahack/wiki) hay información más detallada sobre estas tecnologías.
