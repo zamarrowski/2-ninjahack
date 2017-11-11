@@ -14,7 +14,7 @@ El ninja hack utiliza dos tecnologías:
 * [Cells](https://www.cellsjs.com/guides/index.html) para la parte de desarrollo de la aplicación front.
 * 
 
-Dentro de la [Wiki] (https://github.com/BBVA/ninja-hack/wiki) hay información más detallada sobre estas tecnologías.
+Dentro de la [Wiki] (https://github.com/BBVA/2-ninjahack/wiki) hay información más detallada sobre estas tecnologías.
 
 ## ¿Dónde puedo preguntar sobre estas tecnologías?
 
