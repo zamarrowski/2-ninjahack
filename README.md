@@ -12,7 +12,7 @@ El principal propósito de este repositorio es dar la información necesaria a t
 El ninja hack utiliza dos tecnologías:
 
 * [Cells](https://bbva-devplatform.appspot.com/en-us/engines/cells/index.html) para la parte de desarrollo de la aplicación front.
-* 
+* [SEMaaS](https://kappa.play.global.semaas-spot.com/)
 
 Dentro de la [Wiki] (https://github.com/BBVA/2-ninjahack/wiki) hay información más detallada sobre estas tecnologías.
 
@@ -23,7 +23,8 @@ Existe un canal de slack donde los facitadores del evento te contestan. Pregunta
 ## ¿Dónde vamos a desplegar?
 
 Cada equipo que este en el ninjaHack va a tener una cuenta de 
-* Amazon [AWS](https://aws.amazon.com/es/?nc2=h_lg) donde poder desplegar su software. Se podrá utilizar cualquiera de las herramientas (Dynamo,ECS,Lambda,Kinesis,SNS,EBS...) que proporciona AWS para desarrollar y desplegar la aplicación.
+* Amazon [AWS] (https://aws.amazon.com/es/?nc2=h_lg) donde poder desplegar su software. Se podrá utilizar cualquiera de las herramientas (Dynamo,ECS,Lambda,Kinesis,SNS,EBS...) que proporciona AWS para desarrollar y desplegar la aplicación.
+* Google [GCP] 
 
 ## ¿Dónde voy a compartir el código?
 
