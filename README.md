@@ -5,35 +5,41 @@ El principal propósito de este repositorio es dar la información necesaria a t
 ## ¿Qué tengo que llevar al ninjaHack?
 
 * Portatil con linux preferiblemente [Ubuntu](https://www.ubuntu.com/) u OSX.
-* Puedes utilizar una máquina virtual por ejemplo [Virtual box](https://www.virtualbox.org/) si tu equipo es un windows
+* Puedes utilizar una máquina virtual por ejemplo [Virtual box](https://www.virtualbox.org/) si tu equipo es un windows.
 
-## ¿Qué tecnologías vamos a usar?
+## ¿Qué tecnologías de BBVA vamos a usar?
 
 El ninja hack utiliza dos tecnologías:
 
 * [Cells](https://bbva-devplatform.appspot.com/en-us/engines/cells/index.html) para la parte de desarrollo de la aplicación front.
-* [SEMaaS](https://kappa.play.global.semaas-spot.com/)
-
-Dentro de la [Wiki] (https://github.com/BBVA/2-ninjahack/wiki) hay información más detallada sobre estas tecnologías.
+* [SeMaaS](https://kappa.play.global.semaas-spot.com/), la plataforma de Ether para eventos, buckets, monitorización y logs, que facilita el desarrollo de la parte de backend de la aplicación.
 
 ## ¿Dónde puedo preguntar sobre estas tecnologías?
 
-Existe un canal de slack donde los facitadores del evento te contestan. Pregunta al portavoz de tu equipo para que te diga cuál es y cómo usarlo.
+Existe un canal de slack donde los facitadores del evento te contestan. Pregunta al portavoz de tu equipo para que te diga cuál es y cómo usarlo. 
 
 ## ¿Dónde vamos a desplegar?
 
-Cada equipo que este en el ninjaHack va a tener una cuenta de 
-* Amazon [AWS] (https://aws.amazon.com/es/?nc2=h_lg) donde poder desplegar su software. Se podrá utilizar cualquiera de las herramientas (Dynamo,ECS,Lambda,Kinesis,SNS,EBS...) que proporciona AWS para desarrollar y desplegar la aplicación.
-* Google [GCP] 
+Cada equipo que este en el ninjaHack va a tener una cuenta de una de las plaformas públicas mas importantes donde poder desplegar su software.
+
+* Amazon [AWS] (https://aws.amazon.com/es/?nc2=h_lg). Se podrá utilizar cualquiera de las herramientas (Dynamo, ECS, Lambda, Kinesis, SNS, EBS...) que proporciona AWS para desarrollar y desplegar la aplicación.
+* Google [GCP] (https://cloud.google.com/). Al igual que AWS se podrá utilizar cualquier herramienta que Google proporciona (Datastore, Pub-Sub, GKE, Functions, etc.
+
+## ¿Qué lenguaje de programación puedo utilizar?
+
+Cualquiera, el que más se ajuste al problema que quiero resolver.
 
 ## ¿Dónde voy a compartir el código?
 
 Se va a crear un proyecto por equipo, en el [bitbucket de BBVA](https://globaldevtools.bbva.com/bitbucket/). El viernes 24/11/2017 daremos la cuenta para que podáis empezar a configurar tu repositorio.
 
+## ¿Cúal va a ser el orden de presentación?
+
+Se decidirá por sorteo entre los portavoces durante el ninjahack.
 
 ## ¿Cómo se va a evaluar el trabajo?
 
-El jurado evaluará los siguientes aspectos: 
+El jurado de negocio evaluará los siguientes aspectos: 
 
 **Comunicación** (20% de la calificación global):
 
@@ -48,13 +54,21 @@ El jurado evaluará los siguientes aspectos:
   * Que el tamaño de la idea esté ajustado al tiempo y skills de los que dispone en equipo, sencillez.
   * Que el prototipo funcione en la presentación final.
 
-Aparte del jurado principal, los facilitadores que conoceréis en el momento de la celebración del Hackathon, evaluarán:
+Existirá un jurado técnico que evaluará cómo esta hecha la solución:
 
 **Calidad del prototipo** (40% de la calificación global):
 
-  * Modularidad del código
-  * Código limpio
-  * Uso correcto de las técnicas en el prototipo
+  * Maestría a la hora de transmitir la solución técnica al jurado. 
   * Aprovechamiento de las plataformas
   * Qué las funcionalidades desarrolladas funcionen correctamente  
+  * Qué la arquitectura este definida correctamente y se ajuste al problema.
+  * Modularidad del código.
+  * Código limpio.
+  * Uso correcto de las técnicas en el prototipo.
+  
+## ¿Como se va a evaluar?
 
+* Cada persona del jurado tendrá una hoja de notas con cada uno de los aspectos a puntuar.
+* Las puntuaciones de los miembros del jurado son independientes las unas de las otras, no existe deliberación.
+* Se eliminarán las notas mas alta y mas baja para cada uno de los aspectos a puntuar para evitar sesgos.
+* Las notas serán públicas y estarán disponibles para todos los participantes del ninjahack.
