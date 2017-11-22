@@ -25,6 +25,8 @@ Cada equipo que este en el ninjaHack va a tener una cuenta de una de las plaform
 * Amazon [AWS] (https://aws.amazon.com/es/?nc2=h_lg). Se podrá utilizar cualquiera de las herramientas (Dynamo, ECS, Lambda, Kinesis, SNS, EBS...) que proporciona AWS para desarrollar y desplegar la aplicación.
 * Google [GCP] (https://cloud.google.com/). Al igual que AWS se podrá utilizar cualquier herramienta que Google proporciona (Datastore, Pub-Sub, GKE, Functions, etc.
 
+Daremos acceso a las cuentas el día 24/11/2017.
+
 ## ¿Qué lenguaje de programación puedo utilizar?
 
 Cualquiera, el que más se ajuste al problema que quiero resolver.
@@ -32,6 +34,10 @@ Cualquiera, el que más se ajuste al problema que quiero resolver.
 ## ¿Dónde voy a compartir el código?
 
 Se va a crear un proyecto por equipo, en el [bitbucket de BBVA](https://globaldevtools.bbva.com/bitbucket/). El viernes 24/11/2017 daremos la cuenta para que podáis empezar a configurar tu repositorio.
+
+## ¿Puedo empezar a trabajar cuando reciba la cuenta?
+
+No. Las cuentas se proporcionan el viernes 24/11/2017 para probar que se tiene acceso a ellas y que toda la infraestructura funciona correctamente. No se puede hacer ningún avance en código dentro de ellas hasta el momento del ninjahack. Si se detectará cualquier cambio en las cuentas el equipo sería **descalificado** 
 
 ## ¿Cúal va a ser el orden de presentación?
 
