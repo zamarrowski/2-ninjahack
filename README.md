@@ -11,7 +11,7 @@ El principal propósito de este repositorio es dar la información necesaria a t
 
 El ninja hack utiliza dos tecnologías:
 
-* [Cells](https://globaldevtools.bbva.com/bitbucket/projects/CEL/repos/cells/browse/README.md) para la parte de desarrollo de la aplicación front. Tambié podéis consultar la documentación oficial en [platform](https://bbva-devplatform.appspot.com/en-us/engines/cells/index.html))
+* [Cells](https://globaldevtools.bbva.com/bitbucket/projects/CEL/repos/cells/browse/README.md) para la parte de desarrollo de la aplicación front. También podéis consultar la documentación oficial en [platform](https://bbva-devplatform.appspot.com/en-us/engines/cells/index.html).
 * [SeMaaS](https://kappa.play.global.semaas-spot.com/), la plataforma de Ether para eventos, buckets, monitorización y logs, que facilita el desarrollo de la parte de backend de la aplicación.
 
 ## ¿Dónde puedo preguntar sobre estas tecnologías?
