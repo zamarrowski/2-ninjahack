@@ -43,7 +43,7 @@ Cada uno de estos gastos tiene una recurrencia lógica acorde a su naturaleza y 
 * luxury, gastos en articulos del lujo.
 * new_car, compra de un nuevo vehiculo.
 
-###Ticks
+### Ticks
 
 El mundo evoluciona siguiendo un reloj único. Cada tick de ese reloj es un día de calendario.
 
