@@ -8,7 +8,7 @@ que se va a publicar en los streams de SeMaaS.
 ### Datos físicos
 
 * Número de personas: 10000.
-* Número de compaías: 550.
+* Número de compañías: 550.
 * Unidad minima del tiempo: 1 día.
 * Geolocalizado: Madrid.
 * Fecha de inicio: 5/10/2017
